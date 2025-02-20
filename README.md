@@ -1,3 +1,7 @@
+# Easy way first one to follow.
+* Install CMAke first add the cmake bin location to the Enviromental Variable
+* pip install git+https://github.com/davisking/dlib.git@master
+
 # dlib_installation
 If you are installing dlib on <= python 3.6
 * Then follow below link for the whl file, https://pypi.org/simple/dlib/
